@@ -1,36 +1,29 @@
+# 🎓 College Event Feedback Analysis
 
-TASK 1 BY FUTURE INTERNS
-📊 E-Commerce Data Analysis with Power BI
-Task:
-Analyze e-commerce data to identify best-selling products, observe sales trends, and highlight high-revenue categories to drive data-informed business decisions.
+The goal was to analyze student feedback from college events such as **Tech Fest, Cultural Night, Workshops, and Seminars** to provide actionable insights.
 
-🔍 Project Overview
-This project involves cleaning and transforming raw sales data to uncover actionable insights. Using Power BI, the analysis focuses on identifying:
+---
 
-🏆 Top-performing products by sales volume
+## Project Overview
+- Dataset of **100+ feedback responses**
+- Ratings: 1 (Poor) → 5 (Excellent)
+- Feedback comments analyzed using **Sentiment Analysis**
+- Tools: Google Colab, Pandas, Matplotlib, Seaborn, TextBlob, WordCloud
 
-📈 Sales trends across time, region, and category
+---
 
-💰 High-revenue categories and customer behavior patterns
+## What I Did
+- Cleaned & prepared feedback data
+- Performed Sentiment Analysis (Positive/Neutral/Negative)
+- Built visualizations (Bar charts, Pie charts, Stacked Bar)
+- Generated Word Clouds for feedback themes
+- Summarized insights into recommendations
 
-🛠️ Skills Gained
-🔹 Data Cleaning & Transformation
+---
 
-🔹 DAX (Data Analysis Expressions)
-
-🔹 Time-series & Trend Analysis
-
-🔹 Business Storytelling with Visuals
-
-✅ Deliverable
-An interactive Power BI dashboard featuring:
-
-Dynamic filters and slicers
-
-Sales trend visualizations
-
-Category-wise revenue charts
-
-KPIs for quick business insights
+## Recommendations
+- Continue successful events like Tech Fest & Cultural Night
+- Make workshops shorter & more interactive
+- Improve logistics (punctuality, sound system, crowd management)
 
 
